@@ -18,7 +18,7 @@ services:
       - 9300:9300
 
   kibana:
-    image: docker.elastic.co/kibana/kibana:9.5.6
+    image: docker.elastic.co/kibana/kibana:9.2.1
     container_name: kibana
     ports:
       - 80:5601
