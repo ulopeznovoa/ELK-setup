@@ -1,6 +1,6 @@
 # Configuración pila ELK
 
-Fichero Docker Compose para desplegar la pila ELK. Los componentes están en la versión 9.2.1.
+Fichero Docker Compose para desplegar la pila ELK. Los componentes están en la versión 9.5.6.
 
 Advertencias:
 - La pila ELK utiliza aprox. 5 GB de RAM.
